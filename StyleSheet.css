@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scrollbar-width: none;
+    
+}
+
+body{
+    background-color: rgb(237, 225, 236, 1);;
+}
+
+/* Header Bar */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(227, 184, 224, 1);
+    width: 100vw;
+    height: 15vh;
+}
+
+/* Logo */
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    gap: 5px;
+}
+
+.logo img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+/* Title */
+#business-name{  
+    font-family: "Birthstone", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
+    line-height: 0.3;
+}
+
+
+/* Navigation Menu */
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    list-style: none;
+    font-size: 20px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    flex: 1;
+    margin: 50px;   
+}
+
+li:hover{
+    text-decoration: wavy underline;
+}
+
+li{
+    padding: 20px;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+/* Main Bar */
+
+/* Welcome Section */
+.hero-section {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#welcome-title {
+    font-family: "Emilys Candy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 90px;
+    margin-top: 30px;
+    color: #333;;
+}
+
+#welcome-description {
+    font-family: "Delius Swash Caps", cursive;
+    color: #333;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: justify;
+    text-wrap: wrap;
+}
+
+.explore-button {
+    background-color: rgba(225, 48, 166, 0.522);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+hr{
+    border: 1.5px solid white;
+    width: 100vw;
+}
+
+/* Recipes Card */
+
+.trending-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.recipes-cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-container { 
+    background-color:floralwhite;      
+    height: 300px;
+    width: 300px;
+    margin: 8px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.card-container:hover{
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+    transform: translateY(-2px);
+    transition: all 0.1s ease;
+}
+
+.food-image img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    text-align: center;
+}
+
+#recipe-title{
+    font-family: "Atma", system-ui;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 1.4rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* About Me Section */
+
+.aboutme {
+    background-color: rgb(242, 210, 245);
+    font-family: "Delius Swash Caps", cursive;
+    overflow: auto;
+    padding: 30px;
+    height: 350px;
+    width: 100%;
+    color: #333;
+    margin: 0;
+}
+
+.aboutme h2 {
+    font-size: 80px;
+    margin-bottom: 20px;
+    font-family: "Emilys Candy", cursive;
+    text-align: center;
+}
+
+.aboutme p {
+    font-size: 35px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#pixie {
+    float: left;
+    border-radius: 50%;
+    background-color: rgba(238, 178, 218, 0.689);
+    margin: 0 40px 0 5px;
+    text-align: center;
+}
+
+#pixie img {
+    height: 150px;
+    border-radius: 50%;
+}
+
+/* Contact Section */
+.connect-section {
+    /* background-color: lavender; */
+    /* padding: 40px; */
+    text-align: center;
+    font-family: "Delius Swash Caps", cursive;
+    font-size: 35px;
+    color: #333;
+    margin: 0 0 20px;
+    
+}
+
+.connect-section h2 {
+    font-size: 80px;
+    margin-bottom: 20px;
+    font-family: "Emilys Candy", cursive;
+}
+
+.connect-section p {
+    margin: 15px 0;
+    font-size: 35px;
+}
+
+.connect-section .social-links {
+    list-style: none;
+    padding: 0;
+}
+
+.connect-section .social-links li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.connect-section .social-links a {
+    text-decoration: none;
+    color: rgb(225, 48, 166);
+}
+
+/* Footer Section */
+
+footer{
+    background-color: rgb(227, 184, 224, 1);
+    text-align: center;
+    width: 100%;
+    font-family: "Delius Swash Caps", cursive;
+    color: #333;
+}
+
+footer p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px){
+    h1{
+        font-size: 3rem;
+        line-height: 0.6;
+    }
+}

@@ -23,6 +23,6 @@ This project is a visually refined static website designed to present a curated 
 
 🌐 Hosted via GitHub Pages
 
-🔗 Live Website: 
+🔗 Live Website: https://kritisethi2006.github.io/Recipe-Website-Static/
 
 🌐 LinkedIn Post:

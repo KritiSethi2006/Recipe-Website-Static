@@ -25,4 +25,4 @@ This project is a visually refined static website designed to present a curated 
 
 **🔗 Live Website:** https://kritisethi2006.github.io/Recipe-Website-Static/
 
-**🌐 LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_webdevelopment-frontendprojects-htmlcss-activity-7361077726293733376-JA-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
+**🌐 LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_webdevelopment-frontendprojects-htmlcss-activity-7363592686139785219-T1xo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk

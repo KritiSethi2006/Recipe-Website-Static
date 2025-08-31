@@ -1,8 +1,8 @@
 # 🧁Bake With Pixie Recipe Website (Static)
 
-This project is a visually refined static website designed to present a curated collection of recipes in an elegant and accessible format. Built entirely with HTML and CSS, the website allows users to explore trending dishes, view detailed recipe cards, and navigate seamlessly across sections. It is ideal for culinary bloggers, food enthusiasts, or small businesses seeking a clean and responsive digital presence without the need for backend integration.
+This project is a visually refined static website designed to present a curated collection of recipes in an elegant and accessible format. Built entirely with HTML and CSS, the website enables users to explore trending dishes, view detailed recipe cards, and navigate seamlessly through its sections. It is ideal for culinary bloggers, food enthusiasts, or small businesses seeking a clean and responsive digital presence that requires no backend integration.
 
-⚙️ Key Features of Website:-
+**⚙️ Key Features of Website:-**
 
 🔹 Responsive navigation bar with smooth transitions 
 
@@ -16,13 +16,13 @@ This project is a visually refined static website designed to present a curated 
 
 🔹 CSS-powered responsiveness and aesthetic consistency across devices  
 
-💻 Technologies Used:-
+**💻 Technologies Used:-**
 
-• HTML – Establishes the structural framework and organizes content logically.  
-• CSS – Enhances visual presentation, manages layout responsiveness, and applies design aesthetics.  
+• **HTML** – Establishes the structural framework and organizes content logically.  
+• **CSS** – Enhances visual presentation, manages layout responsiveness, and applies design aesthetics.  
 
-🌐 Hosted via GitHub Pages
+**🌐 Hosted via GitHub Pages**
 
-🔗 Live Website: https://kritisethi2006.github.io/Recipe-Website-Static/
+**🔗 Live Website:** https://kritisethi2006.github.io/Recipe-Website-Static/
 
-🌐 LinkedIn Post: https://www.linkedin.com/posts/kritisethi2006_webdevelopment-frontendprojects-htmlcss-activity-7361077726293733376-JA-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
+**🌐 LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_webdevelopment-frontendprojects-htmlcss-activity-7361077726293733376-JA-m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
